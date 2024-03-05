@@ -12,7 +12,6 @@ import java.util.List;
 
 public class App {
     public static void main(String[] args) {
-
         BaseEntity house1 = new House(100, 100000, 3, 1);
         BaseEntity house2 = new House(150, 150000, 3, 1);
         BaseEntity house3 = new House(200,200000, 4, 1);
