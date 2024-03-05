@@ -1,4 +1,9 @@
 package org.example;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> eb145f6bb2ade3a9dbb85af91ca5195ac647d3b9
 import org.example.entity.Customer;
 import org.example.entity.Invoice;
 import org.example.repository.CustomerRepository;
